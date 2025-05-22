@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './mia.jpg';
 import './App.css';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           data-testid='learn-link'
         >
-          Learn testing
+          Learn testing with nikolay and mia
         </a>
       </header>
     </div>
